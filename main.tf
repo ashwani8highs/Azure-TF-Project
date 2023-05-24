@@ -4,5 +4,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
         name ="learn101"
-        location ="westus2" 
+        location ="eastus2" 
 }
